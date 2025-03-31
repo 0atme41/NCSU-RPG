@@ -35,6 +35,7 @@
   "name":"ncsurpg",
   "resources":[
     {"id":{"name":"player","path":"objects/player/player.yy",},},
+    {"id":{"name":"MAP","path":"rooms/MAP/MAP.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"TEST_bragawAERIAL","path":"rooms/TEST_bragawAERIAL/TEST_bragawAERIAL.yy",},},
     {"id":{"name":"TEST_bragawFront","path":"rooms/TEST_bragawFront/TEST_bragawFront.yy",},},
@@ -45,6 +46,7 @@
     {"id":{"name":"ground","path":"sprites/ground/ground.yy",},},
     {"id":{"name":"pavement","path":"sprites/pavement/pavement.yy",},},
     {"id":{"name":"Person","path":"sprites/Person/Person.yy",},},
+    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
     {"id":{"name":"walls","path":"sprites/walls/walls.yy",},},
     {"id":{"name":"concrete_build","path":"tilesets/concrete_build/concrete_build.yy",},},
     {"id":{"name":"TileSet_road","path":"tilesets/TileSet_road/TileSet_road.yy",},},
@@ -52,6 +54,7 @@
     {"id":{"name":"TileSet6","path":"tilesets/TileSet6/TileSet6.yy",},},
     {"id":{"name":"TileSetGrass","path":"tilesets/TileSetGrass/TileSetGrass.yy",},},
     {"id":{"name":"TileSetground","path":"tilesets/TileSetground/TileSetground.yy",},},
+    {"id":{"name":"TileSetTraintracks","path":"tilesets/TileSetTraintracks/TileSetTraintracks.yy",},},
     {"id":{"name":"wallstsiel","path":"tilesets/wallstsiel/wallstsiel.yy",},},
   ],
   "resourceType":"GMProject",
@@ -60,6 +63,7 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"TEST_bragawFront","path":"rooms/TEST_bragawFront/TEST_bragawFront.yy",},},
     {"roomId":{"name":"TEST_bragawAERIAL","path":"rooms/TEST_bragawAERIAL/TEST_bragawAERIAL.yy",},},
+    {"roomId":{"name":"MAP","path":"rooms/MAP/MAP.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

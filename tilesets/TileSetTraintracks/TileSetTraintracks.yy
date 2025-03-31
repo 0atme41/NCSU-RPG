@@ -1,19 +1,19 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"TileSet4",
+  "%Name":"TileSetTraintracks",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"TileSet4",
+  "name":"TileSetTraintracks",
   "out_columns":23,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
